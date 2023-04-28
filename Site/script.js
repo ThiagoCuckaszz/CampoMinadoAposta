@@ -49,7 +49,7 @@ function bomba() {
     let ganhohtml = document.getElementById("ganho");
     ganhoTotal = 0;
     aposta.value = ""
-    ganhohtml.innerHTML = `Valor Acomulado R$${ganhoTotal.toFixed(2)}`
+    ganhohtml.innerHTML = `Valor Acumulado R$${ganhoTotal.toFixed(2)}`
     
     corBomba(this);
     apostar();
