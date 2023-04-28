@@ -126,7 +126,7 @@ function resetar(){
     }
     ganhoTotal = 0;
     apostafeita = false;
-    document.getElementById("ganho").innerHTML = `Valor Acomulado R$ ${ganhoTotal.toFixed(2)}`;
+    document.getElementById("ganho").innerHTML = `Valor Acumulado R$ ${ganhoTotal.toFixed(2)}`;
 }
 
 for (let i = 1; i < 6; i++){
