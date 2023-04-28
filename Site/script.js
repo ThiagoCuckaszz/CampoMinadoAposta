@@ -31,7 +31,7 @@ function somarGanho(){
     let ganhohtml = document.getElementById("ganho");
     let ganho = aposta * 1.5;
     ganhoTotal += ganho;
-    ganhohtml.innerHTML = `Valor Acomulado R$${ganhoTotal.toFixed(2)}`
+    ganhohtml.innerHTML = `Valor Acumulado R$${ganhoTotal.toFixed(2)}`
 }
 
 
