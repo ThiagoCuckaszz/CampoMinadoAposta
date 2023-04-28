@@ -13,5 +13,5 @@ Criar um campo minado baseado no da Stake onde o objetivo é apostar em onde nã
 
 # TELA DO JOGO
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
