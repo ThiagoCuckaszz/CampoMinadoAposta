@@ -2,7 +2,7 @@
 
 Criado usando HTML, css e JavaScript
 
-# OBJETIVO:
+# OBJETIVO
 Criar um campo minado baseado no da Stake onde o objetivo é apostar em onde não esta a bomba
 
 # REGRAS DE FUNCIONAMENTO
